@@ -1,4 +1,4 @@
-package estrings
+package estring
 
 import (
 	"strings"
